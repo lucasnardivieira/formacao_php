@@ -1,5 +1,5 @@
 <?php 
-echo "Hello world!";
+echo "Hello world!"; echo "\n";
 
 #VARIÁVEIS
 $idade = 26;
